@@ -42,4 +42,4 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 #### Buy me a Coffee if this is useful Thanks for Reading.
  https://paypal.me/ankanna
  
-If You need [rename project project](https://gist.github.com/AndreOrlov/caa814fcae28f21e0bfc6ab6b6ade77d#file-rename_phoenix_project-sh)
+If You need [rename project commands](https://gist.github.com/AndreOrlov/caa814fcae28f21e0bfc6ab6b6ade77d#file-rename_phoenix_project-sh)
